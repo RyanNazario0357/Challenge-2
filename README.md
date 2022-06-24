@@ -1,1 +1,2 @@
 # Challenge-2
+In this website information about me is provided. I have given my latest projects and given some personal information. Page layout is in HTML with CSS style code to accompany it. Phone number, email address, and github is provided on the bottom of the page.
